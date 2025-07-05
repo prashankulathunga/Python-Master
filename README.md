@@ -6,4 +6,5 @@
     - Type Conversions
     - Literals
     - Operators
-    - Operator (Exercise)
+    - Operators (Exercise)
+    - Conditional Statement
