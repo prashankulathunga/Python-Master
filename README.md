@@ -6,3 +6,4 @@
     - Type Conversions
     - Literals
     - Operators
+    - Operator (Exercise)
