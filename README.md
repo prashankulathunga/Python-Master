@@ -5,3 +5,4 @@
     - Inputs
     - Type Conversions
     - Literals
+    - Operators
