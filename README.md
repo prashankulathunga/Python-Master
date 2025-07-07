@@ -7,4 +7,5 @@
     - Literals
     - Operators
     - Operators (Exercise)
-    - Conditional Statement
+    - Conditional Statements
+    - Conditional Statements (Exercise) => conditional_statement_exercise.py
