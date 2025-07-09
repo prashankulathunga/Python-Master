@@ -30,8 +30,9 @@ Exercise - 2
 """
 
 
+"""
 menu = input(
-    """
+
 Hi there! Welcome to ATM
 Please choose
 
@@ -41,11 +42,12 @@ Please choose
 4. Enter 4 for Deposit
 5. Enter 5 for Exit
 
-"""
+
 )
+"""
 
 # conditional logic
-
+"""
 if menu == "1":
     print('Pin Change')
 elif menu == "2":
@@ -58,3 +60,14 @@ elif menu == "3":
     print("Exit")
 else:
     print("Enter Valid Number for Continue Service")                   
+    """
+
+#explicit module use pip install flask
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/")
+def hello_world():
+    return "<p>Hello, World!</p>"
