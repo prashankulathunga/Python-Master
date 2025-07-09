@@ -10,3 +10,4 @@
     - Conditional Statements
     - Conditional Statements (Exercise) => conditional_statement_exercise.py
     - Modules (Builtin module and External module)
+    - Loops (while Loop)
