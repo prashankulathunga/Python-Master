@@ -23,4 +23,4 @@ while x < 4:
     print(x)
     x += 1
 else:
-    print("Program Executed")    
+    print("Program Executed")
