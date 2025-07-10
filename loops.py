@@ -18,9 +18,10 @@
 
 # while loop using else loop
 
-x = 0
-while x < 4:
-    print(x)
-    x += 1
-else:
-    print("Program Executed")
+# x = 0
+# while x < 4:
+#     print(x)
+#     x += 1
+# else:
+#     print("Program Executed")
+

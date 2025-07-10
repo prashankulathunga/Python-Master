@@ -12,3 +12,4 @@
     - Modules (Builtin module and External module)
     - Loops (while Loop)
     - Guessing Game using while loop
+    - Loops (for Loop)
