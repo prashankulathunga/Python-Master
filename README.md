@@ -13,3 +13,4 @@
     - Loops (while Loop)
     - Guessing Game using while loop
     - Loops (for Loop)
+    - Loops (Nested for Loop)
