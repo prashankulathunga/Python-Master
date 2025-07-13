@@ -15,3 +15,4 @@
     - Loops (for Loop)
     - Loops (Nested for Loop)
     - Loop Control Statement
+    - Strings in python
