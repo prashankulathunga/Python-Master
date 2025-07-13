@@ -17,4 +17,5 @@
     - Loop Control Statement
     - Strings in python
     - Strings (Exercise)
-    - List in Python
+    - Lists in Python
+    - Lists Methods in Python
