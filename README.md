@@ -16,3 +16,5 @@
     - Loops (Nested for Loop)
     - Loop Control Statement
     - Strings in python
+    - Strings (Exercise)
+    - List in Python
