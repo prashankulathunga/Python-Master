@@ -21,3 +21,4 @@
     - Lists Methods in Python
     - Lists Operations in Python
     - Lists Comprehension
+    - Zip Function
