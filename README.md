@@ -22,3 +22,4 @@
     - Lists Operations in Python
     - Lists Comprehension
     - Zip Function
+    - Exercise (Lists)
