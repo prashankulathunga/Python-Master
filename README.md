@@ -23,3 +23,4 @@
     - Lists Comprehension
     - Zip Function
     - Exercise (Lists)
+    - Tuples in Python
