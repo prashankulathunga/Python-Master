@@ -14,5 +14,5 @@ while jack_pot != guess_number:
     guess_number = int(input("Please Enter a Number: "))    
     count+=1
 else:
-    print("Yeah! You win the game")
-    print(f"Your attempt is {count}")
+    print("Yeah! You win the game") 
+    print(f"Your attempt is {count}") 

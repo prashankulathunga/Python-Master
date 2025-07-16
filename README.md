@@ -26,3 +26,4 @@
     - Tuples in Python
     - Difference between Lists and Tuples
     - Tuple Unpacking
+    - Tuple Comprehension
