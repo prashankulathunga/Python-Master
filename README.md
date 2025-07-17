@@ -28,3 +28,4 @@
     - Tuple Unpacking
     - Tuple Comprehension
     - Sets in Python
+    - Sets Operations in Python
