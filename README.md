@@ -29,3 +29,4 @@
     - Tuple Comprehension
     - Sets in Python
     - Sets Operations in Python
+    - Sets Method and Functions in Python
