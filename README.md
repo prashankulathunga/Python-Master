@@ -33,3 +33,4 @@
     - Frozenset in Python
     - Set comprehension in Python
     - Dictionary in Python
+    - Dictionary Operations
