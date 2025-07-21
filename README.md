@@ -34,3 +34,4 @@
     - Set comprehension in Python
     - Dictionary in Python
     - Dictionary Operations
+    - Dictionary Methods
